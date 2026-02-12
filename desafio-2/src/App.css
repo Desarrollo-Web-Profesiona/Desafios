@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(135deg, #1d3557, #457b9d);
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+.card {
+  background: white;
+  padding: 30px;
+  border-radius: 15px;
+  width: 350px;
+  text-align: center;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.3);
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  background: #f1faee;
+  margin: 8px 0;
+  padding: 10px;
+  border-radius: 8px;
+}
