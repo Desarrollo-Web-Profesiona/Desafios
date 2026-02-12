@@ -1,3 +1,6 @@
+body { background: linear-gradient(135deg,#667eea,#764ba2); font-family: Arial;}
+.container { display: flex; justify-content: center; margin-top: 100px; text-align:center; color:rgb(55, 48, 97); }
+.profile { background:white; padding:30px; border-radius:15px; box-shadow:0 10px 20px rgba(0,0,0,0.2);}
 body {
   background: linear-gradient(135deg, #6a11cb, #2575fc);
   font-family: Arial, sans-serif;
