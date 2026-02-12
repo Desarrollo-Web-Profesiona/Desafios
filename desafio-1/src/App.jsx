@@ -1,5 +1,7 @@
 import { UserProfile } from "./components/UserProfile"
 import "./App.css"
+import UserProfile from "./components/UserProfile";
+import "./App.css";
 
 function App() {
   return (
@@ -11,3 +13,10 @@ function App() {
 }
 
 export default App
+      <p className="info">
+        Este componente fue creado y luego anidado dentro de App.
+      </p>
+    </div>
+  );
+}
+
